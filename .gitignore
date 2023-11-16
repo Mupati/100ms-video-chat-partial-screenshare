@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.vscode
+todo.txt
+
+# Local Netlify folder
+.netlify
+hms-functions/*/vendor
+.env
+hms-functions/.env
